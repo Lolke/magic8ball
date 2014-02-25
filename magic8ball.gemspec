@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'Magic8Ball'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2014-02-25'
   s.summary     = "Ask me anything!"
   s.description = "A simple game to play"
