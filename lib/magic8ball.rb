@@ -1,5 +1,7 @@
 class Magic8Ball
-  def self.answer
-    puts "Hello world!"
+  def self.answer(question = 'May shoud I try?')
+    Answerator.answer(question)
   end
 end
+
+require "magic8ball/answerator"

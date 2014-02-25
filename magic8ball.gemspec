@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "A simple game to play"
   s.authors     = ["Lucas Oliveira"]
   s.email       = 'loslucassilva@gmail.com'
-  s.files       = ["lib/magic8ball.rb"]
+  s.files       = ["lib/magic8ball.rb", "lib/magic8ball/answerator.rb"]
   s.homepage    = 'http://rubygems.org/gems/magic8ball'
   s.license       = 'MIT'
 end
