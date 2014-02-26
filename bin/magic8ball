@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'magic8ball'
+if ARGV[0].nil?
+  puts "You need to ask something!\n"
+else
+  puts Magic8Ball.answer(ARGV[0])
+end
