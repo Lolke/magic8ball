@@ -1,4 +1,4 @@
 Magic8Ball
 ==========
 
-A rubygem to help me to learn how to build and publish gem
+A simple game to ask questions and receive answers from the other world. By command line.
